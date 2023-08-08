@@ -1,3 +1,10 @@
 llama2_local/llama-2-7b-chat.ggmlv3.q8_0.bin
 llama2_local/.venv
 llama2_local/faiss
+chatbot_llama2/llama-2-7b-chat.ggmlv3.q8_0.bin
+chatbot_llama2/.cbotllama2
+chatbot_llama2/faiss
+chatbot_llama2/data
+chatbot_llama2/vectorstores
+chatbot_llama2/__pycache__
+chatbot_llama2/.chainlit
