@@ -10,4 +10,4 @@ activate_venv:
 	source .venv/bin/activate
 
 install_packages:
-	pip install llama-cpp-python
+	pip install llama-cpp-python langchain sentence_transformers faiss-cpu ctransformers
