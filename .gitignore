@@ -8,3 +8,4 @@ chatbot_llama2/data
 chatbot_llama2/vectorstores
 chatbot_llama2/__pycache__
 chatbot_llama2/.chainlit
+customer_segmentation/data/embedding_train.csv
